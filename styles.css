@@ -1,0 +1,28 @@
+.Stat{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Title{
+    font-size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image{
+    width:300px;
+}
+
+.Fighter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 300px;
+}
